@@ -1,4 +1,4 @@
-filename = r'1027 [emotion0 10101-10200].txt'
+filename = r'1030 [emotion0 10401-10500].txt'
 
 with open(r'dan/' + filename,encoding="utf-8") as dan:
     danlines = dan.readlines()
